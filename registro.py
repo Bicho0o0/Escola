@@ -146,6 +146,16 @@ entrada_celular.grid(
 )
 
 
+boton_guardar = tk.Button(
+    ventana,
+    text="GUARDAR REGISTRO",
+    command=guardar_registro,
+    width=30,
+    height=2
+)
+
+boton_guardar.pack(pady=20)
+
 #jeje
 
 # ==========================================
