@@ -242,5 +242,5 @@ class SistemaHuellaDigital(tk.Tk):
 if __name__ == "__main__":
     app = SistemaHuellaDigital()
     app.mainloop()
-#jejeje
+#jejejeje
     
