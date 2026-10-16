@@ -243,4 +243,4 @@ if __name__ == "__main__":
     app = SistemaHuellaDigital()
     app.mainloop()
 
-    #xd
+    #xdxd
